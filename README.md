@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis and creating complex data into business insights.
 - 🌱 I’m learning dept knowlege in my data analysis domain. 
 - 💞️ I’m looking to collaborate on new and much complex datasets.
-- 📫 How to reach me : linkedin, gmail- sachinkumarokay27@gmail.com
+- 📫 How to reach me : linkedin, gmail- sachinkumarokay97@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started learning data analysis as fun but slowly getting better in analysis.
 
